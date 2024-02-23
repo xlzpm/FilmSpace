@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FilmSpace</string>
+    <string name="rating">KP: %s</string>
+    <string name="harry_potter_poster">Poster HP</string>
+    <string name="lord_of_the_rings_poster">Poster LOTR</string>
+    <string name="hunger_games_poster">Poster HG</string>
+    <string name="harry_potter_title">Harry Potter</string>
+    <string name="lord_of_the_rings_title">Lord of the rings</string>
+    <string name="hunger_games_title">Hunger Games</string>
+    <string name="harry_potter_rating">9.0</string>
+    <string name="lord_of_the_rings_rating">7.0</string>
+    <string name="hunger_games_rating">8.4</string>
+    <string name="button_next">Next</string>
+    <string name="button_previous">Previous</string>
+</resources>
